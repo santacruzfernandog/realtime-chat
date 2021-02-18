@@ -1,3 +1,18 @@
+Link publico: https://realtime-chat-8d32f.web.app/
+
+
+# Chat en tiempo real desarrollado con React y Firebase.
+
+• Sistema de registro y autenticacion con la API de Google.
+
+• Manejo de sesiones de usuario.
+
+• Rutas protegidas.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
